@@ -1,0 +1,13 @@
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\bin\Debug\AppMusicPlay.exe.config
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\bin\Debug\AppMusicPlay.exe
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\bin\Debug\AppMusicPlay.pdb
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.Form1.resources
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.Properties.Resources.resources
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.csproj.GenerateResource.cache
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.csproj.CoreCompileInputs.cache
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.exe
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.pdb
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.Login.resources
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.csproj.CopyComplete
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\bin\Debug\Bunifu_UI_v1.52.dll
+D:\ChuyenDeNet\AppMusicPlay\AppMusicPlay\obj\Debug\AppMusicPlay.csproj.AssemblyReference.cache
